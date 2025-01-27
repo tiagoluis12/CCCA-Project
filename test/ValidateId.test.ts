@@ -1,4 +1,4 @@
-import { ValidateId } from '../src/ValidateId';
+import { validateId } from "../src/ValidateId";
 
 test ("Should validate a ID with a digit other than zero", function () {
   const id = "97456321558";
